@@ -8,7 +8,7 @@ I'll write prototypes of modedls here.
 ## 2. dlTrainEvaluate Module
 I'll write some cross validation methods here.
 
-## 3. dlLog Module
+## 3. dlCallback Module
 I'll write some custom callbacks here.
 ### 3.1 CustomMCP class
 inherited from keras.callbacks.ModelCheckpoint
